@@ -336,7 +336,7 @@ export default function App() {
                   <Button variant="primary" href="#projects">
                     See Project
                   </Button>
-                  <Button href="/cv.pdf" download>
+                  <Button href="https://drive.google.com/uc?export=download&id=19QQTz2qQh9JGDu-l3guSpgGJB90aA-jC" download>
                     Download CV
                   </Button>
                 </div>
