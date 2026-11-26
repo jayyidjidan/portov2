@@ -1,0 +1,19 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="72.72" height="72.8128" viewBox="0 0 72.72 72.8128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame 427322869">
+<rect x="0.36" y="0.36" width="72" height="72" fill="white" fill-opacity="0.2"/>
+<rect x="0.24" y="0.24" width="72.24" height="72.24" stroke="white" stroke-opacity="0.5" stroke-width="0.24"/>
+<g id="logos:katalon-icon" clip-path="url(#clip0_0_18)">
+<path id="Vector" d="M49.36 42.9663H36.3598V56.2717H49.36V42.9663Z" fill="#19D89F"/>
+<path id="Vector_2" d="M36.3601 16.36L23.36 29.6653V42.9708H36.3601L49.3558 29.6653V16.36H36.3601Z" fill="black"/>
+</g>
+<path id="Vector_3" d="M0.36 66.5999L0.360749 72.4528H6.12075" stroke-width="0.72" stroke="white"/>
+<path id="Vector_4" d="M72.36 66.5999L72.3593 72.4528H66.5993" stroke-width="0.72" stroke="white"/>
+<path id="Vector_5" d="M0.36 6.21291L0.360749 0.36H6.12075" stroke-width="0.72" stroke="white"/>
+<path id="Vector_6" d="M72.36 6.21291L72.3593 0.36H66.5993" stroke-width="0.72" stroke="white"/>
+</g>
+<defs>
+<clipPath id="clip0_0_18">
+<rect width="26" height="40" fill="white" transform="translate(23.36 16.36)"/>
+</clipPath>
+</defs>
+</svg>
